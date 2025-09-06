@@ -8,3 +8,8 @@ results = pattern.findall(text)
 
 for eng, kor in results:
     print(eng, kor)
+
+
+일부 개선 필요
+숙어나 페이지가 넘어가는 부분에 이상한 단어가 추가되거나 더이상 단어가 추가되지 않는 문제 있음
+속어같이 단어 여러개냐 뜻에 띄어쓰기가 있으면 적용이 안됨
