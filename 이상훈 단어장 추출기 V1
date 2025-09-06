@@ -1,0 +1,10 @@
+import re
+
+text = """change here to LSH English words"""
+
+pattern = re.compile(r"([a-zA-Z]+)\s+[avn]\.? ?([가-힣]+)")
+
+results = pattern.findall(text)
+
+for eng, kor in results:
+    print(eng, kor)
