@@ -24,12 +24,7 @@ V2.4 영단어 완성 퀴즈 추가
 
 길게 눌러 끌어서 순서 변경이 윗부분 터치 영역에선 안되고, 아랫부분 터치 영역에선 아랫 단어를 옮기면 윗단어가 옮겨지는 현상
 
-intend 의도하다mitigate 완화시키다 on the spur of the moment즉석에서upset 격앙된 rest 쉬다simultaneous 동시의 serendipitous 우연히 얻은tribal 부족의 converge 모아지다 
-에서 on the spur of the moment와 같은 숙어가 추츨이 되지 않음, 왜인지 모르겠지만 그 뒤의 upset 격양된도 추출이 되지 않음.
-
 단어 리스트의 수정 버튼이 작동하지 않음
-
-버전 숫자 수정(1.12>2.3)
 
 4지선다 퀴즈 후 틀린 문제 4지선다시 퀴즈 화면이 아니라 바로 결과 화면으로 나가는 문제
 매칭 펴 퀴즈 후 틀린문제 매칭 표 할시 바로 채점 결과화면으로 넘어가는 문제
@@ -37,11 +32,15 @@ intend 의도하다mitigate 완화시키다 on the spur of the moment즉석에�
 
 모든 유형의 퀴즈에서 마지막 문제는 스킵이 안되는 버그
 
-- 단어 추출기 관련 버그
+
+- 단어 추출기 관련 버그(10월 중순 이후 고칠 예정)
 
 Day 31-40 하면 그 단어들도 추가되는 문제 해결
 
 언더바 뒤의 단어는 개별적인 단어로 취급(이름:___stock 주식 이면 이름:___ 는 삭제하고 stock 주식만 냅두기)
+
+intend 의도하다mitigate 완화시키다 on the spur of the moment즉석에서upset 격앙된 rest 쉬다simultaneous 동시의 serendipitous 우연히 얻은tribal 부족의 converge 모아지다 
+에서 on the spur of the moment와 같은 숙어가 추츨이 되지 않음, 왜인지 모르겠지만 그 뒤의 upset 격양된도 추출이 되지 않음.
 
 
 - 추가 예정 -
